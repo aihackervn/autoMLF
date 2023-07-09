@@ -1,0 +1,8 @@
+# cache
+*.pyc
+__pycache__
+**/__pycache__/
+# folder
+venv
+.DS_Store
+.idea
