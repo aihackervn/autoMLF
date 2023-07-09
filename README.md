@@ -43,10 +43,12 @@ autoMLF is a first release simple tool for training and inference of models on t
 - For install by cloning repo, please follow step below:
   1. Clone the repository: 
 
-    `git clone https://github.com/automlf.git`
+  `git clone https://github.com/automlf.git`
+
   2. Change to the framework directory: 
   
   `cd automlf`
+
   3. Install the dependencies: 
   
   `pip install -r requirements.txt`
