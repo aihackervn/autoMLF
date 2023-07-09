@@ -182,6 +182,3 @@ def auto_update_yaml_file(datasets_path: str, yaml_path: str, label_objects: lis
 
 if __name__ == '__main__':
     pass
-    # auto_path(dataset_zip='https://drive.google.com/u/0/uc?id=1OIn3heZxBHxMAwbR6HYhfvoZ32rq-pnZ&export=download',
-    #           label_objects=['qr', 'id', 'name', 'birth', 'gender', 'country', 'home', 'add', 'valid'],
-    #           val_split_size=0.1)
