@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-with open("core/autoML/README.md", "r") as f:
+with open("README.md", "r") as f:
     long_description = f.read()
 with open("requirements.txt", "r") as f:
     install_requires = [line.strip() for line in f if line.strip()]
